@@ -23,3 +23,7 @@ Replicate on True dataset. Split dataset into train + test + validation. Analyse
 
 _Next Steps:_
 Tokenise the dataset and implement Bag-of-Words, a basic logistic regression model, and create a function to evaluate model metrics
+
+# Dec 3, 2021 at 21:18
+
+    1. Find a way to remove typed.js object on form submit action
